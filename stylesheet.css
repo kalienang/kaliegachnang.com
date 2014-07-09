@@ -126,6 +126,13 @@ p {
     font-size: 14px
 }
 
+.message {
+    font-family: 'Mate SC', sans-serif;
+    display: block;
+    margin: auto;
+    font-size: 21px;
+}
+
 
 
 
