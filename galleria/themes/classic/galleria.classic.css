@@ -43,9 +43,9 @@
 }
 .galleria-counter {
     position: absolute;
-    bottom: 10px;
-    left: 10px;
-    text-align: right;
+    bottom: 2px;
+    left: 2px;
+    text-align: left;
     color: #fff;
     font: normal 11px/1 arial,sans-serif;
     z-index: 1;
